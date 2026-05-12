@@ -1,0 +1,12 @@
+openai
+python-dotenv
+fastapi
+uvicorn
+pandas
+pyspark
+faiss-cpu
+langfuse
+opentelemetry-api
+opentelemetry-sdk
+boto3
+python-multipart

@@ -1,0 +1,11 @@
+customer_id,name,email,country,signup_date
+1,John,john@gmail.com,USA,2024-01-01
+2,Alice,,UK,2024-02-10
+3,Bob,bob@gmail.com,,2024-03-05
+4,Emma,emma@gmail.com,Canada,2024-01-12
+5,Chris,,India,2024-04-01
+6,Sophia,sophia@gmail.com,USA,2024-02-18
+7,Michael,michael@gmail.com,,2024-03-25
+8,Olivia,,Germany,2024-01-30
+9,Daniel,daniel@gmail.com,Australia,2024-05-01
+10,Ava,ava@gmail.com,France,2024-02-22

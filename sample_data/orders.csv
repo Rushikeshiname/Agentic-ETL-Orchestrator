@@ -1,0 +1,13 @@
+order_id,customer_name,email,product,quantity,price,country,order_date,status
+1001,John Doe,john@gmail.com,Laptop,1,1200,USA,2024-01-10,Delivered
+1002,Alice Smith,,Phone,2,800,UK,2024-01-15,Shipped
+1003,Bob Lee,bob@gmail.com,Tablet,,500,,2024-01-18,Pending
+1004,Emma Brown,emma@gmail,Monitor,1,-300,Canada,2024/01/20,Delivered
+1005,Chris Green,,Keyboard,3,100,India,2024-02-01,
+1006,Sophia White,sophia@gmail.com,Mouse,abc,50,USA,2024-02-05,Delivered
+1007,Michael Black,michael@gmail.com,Laptop,1,1500,,2024-02-08,Returned
+1008,Olivia Taylor,,Phone,2,900,Germany,2024-02-11,Delivered
+1009,Daniel Young,daniel@gmail.com,Tablet,1,700,Australia,not_a_date,Pending
+1010,Ava Wilson,ava@gmail.com,Monitor,1,400,France,2024-02-20,Delivered
+1011,Noah Martin,noah@gmail,Keyboard,2,150,USA,2024-03-01,Shipped
+1012,Isabella King,,Mouse,5,75,,2024-03-05,Cancelled
